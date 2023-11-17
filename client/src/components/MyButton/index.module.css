@@ -1,0 +1,9 @@
+.button {
+    padding: 0.4rem 2rem;
+    background-color: white;
+    color: #222222;
+
+    border-radius: 10px;
+    border: none;
+    text-transform: uppercase;
+}
